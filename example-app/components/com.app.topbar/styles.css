@@ -1,0 +1,9 @@
+.topbar {
+    width: calc(100% - (16px * 2));
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(237, 237, 237, 255);
+    align-items: center;
+}
